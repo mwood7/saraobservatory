@@ -1,6 +1,6 @@
 ## Status Page for SARA Observatories
 
-**SARA-KPNO:** Open for both direct imaging and spectroscopy. (updated by P.Mack 23.11.07)
+**SARA-KPNO:** Open for spectroscopy only, Main imaging CCD currently offline. (updated by G. Henson 23.12.16)
   
 **SARA-CTIO:** Open for Direct Imaging.  Note NEW VPN Connection. Old login will not work. See your local board representative for login information. (updated 23.11.16 by P. Mack & T. Hillwig)
 
